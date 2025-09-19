@@ -1,4 +1,4 @@
-# 🖥️ Projeto: Cálculo de Terreno em Java
+# 🖥️ Atividade: Cálculo de Terreno (Java)
 
 ## 📌 Descrição
 Este projeto foi desenvolvido durante meu aprendizado inicial em **Java**.  
